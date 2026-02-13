@@ -3,3 +3,5 @@ It aims to shorten the systems development life cycle and provide continuous del
 DevOps emphasizes collaboration between development and operations teams.
 CI/CD pipelines automate the building, testing, and deployment of applications.
 Tools like Jenkins, GitHub Actions, and GitLab CI are widely used in DevOps.
+Infrastructure as Code (IaC) allows managing infrastructure through configuration files.
+Tools like Terraform and Ansible are essential for DevOps automation.
