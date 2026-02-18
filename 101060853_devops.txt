@@ -7,3 +7,6 @@ In this course, I am practicing DevOps by working in a shared GitHub repository,
 
 DevOps Tools I’m learning
 Git and GitHub for version control and collaboration, Linux command line for working on servers, and CI pipelines to automatically run checks on every push and pull request.
+
+CI Pipeline Steps
+A typical CI pipeline runs automatically when code is pushed. It can install dependencies, run tests, run lint checks, and show pass or fail results in the repository. This helps catch errors early before merging into the main branch.
