@@ -18,5 +18,5 @@ Maintenance: monitor, support, and improve the software over time
 DevOps supports the SDLC by automating testing and deployment, improving feedback speed, and helping teams deliver changes more frequently with fewer errors.
 
 
-Agile (Iterative) SDLC
-Agile is an iterative approach where software is built in small increments. Teams deliver working features frequently, collect feedback, and improve in cycles (sprints). It supports faster changes and continuous improvement.
+Agile (Iterative Development)
+Agile delivers software in small cycles (sprints), gets feedback often, and improves continuously. It helps teams adapt quickly when requirements change.
